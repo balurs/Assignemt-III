@@ -10,4 +10,4 @@ The result contains filters selected cars will show in a table on the main conte
 
 You can sort the table according to the variable you want by clicking the arrows at the top of the table.
 
-Source code for ui.R and server.R files are available on the GitHub repo:
+Source code for ui.R and server.R files are available on the GitHub repo : https://github.com/balurs/Assignemt-III
